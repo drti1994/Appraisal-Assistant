@@ -16,5 +16,5 @@ Instructions:
 * 2 - Open Appraisal Assistant;
 * 3 - Select Organization;
 * 4 - Open Organization Profile;
-* 5 - Select File Pre-Assesment;
+* 5 - Select File Pre-Assesment.opf;
  
