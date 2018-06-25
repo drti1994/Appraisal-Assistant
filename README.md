@@ -1,6 +1,11 @@
 # Appraisal-Assistant
 Dissertation - Appraisal Assistant
 
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+
+
+
 File with with pre-assesment of process areas from ITmark and artefacts and cerimonies of Scrum.
 
 
