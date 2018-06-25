@@ -1,7 +1,7 @@
 # Appraisal-Assistant
 Dissertation - Appraisal Assistant
 
-![GitHub Logo](/images/logo.png)
+![Appraisal Assistant](/Appraisal_Assistant.png)
 Format: ![Alt Text](url)
 
 
