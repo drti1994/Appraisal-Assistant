@@ -1,7 +1,7 @@
 # FEUP Dissertation MESW - Melhoria de Processos de Software em Pequenas Empresas com base no Modelo ITmark
 
 Author: Duarte Gomes
-Appraisal Assistant
+* Appraisal Assistant
 
 ![Appraisal Assistant](/Appraisal_Assistant.png)
 
