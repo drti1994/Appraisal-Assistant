@@ -12,7 +12,7 @@ Appraisal Assistant:File with with pre-assesment of process areas from ITmark an
 
 
 Instructions:
-* 1 - Download File - Pre-Assesment;
+* 1 - Download File - Pre-Assesment.opf;
 * 2 - Open Appraisal Assistant;
 * 3 - Select Organization;
 * 4 - Open Organization Profile;
