@@ -1,12 +1,12 @@
-# Appraisal-Assistant
-Dissertation - Appraisal Assistant
+# FEUP Dissertation MESW - Melhoria de Processos de Software em Pequenas Empresas com base no Modelo ITmark
+Appraisal Assistant
 
 ![Appraisal Assistant](/Appraisal_Assistant.png)
-Format: ![Alt Text](url)
 
 
 
-File with with pre-assesment of process areas from ITmark and artefacts and cerimonies of Scrum.
+
+Appraisal Assistant:File with with pre-assesment of process areas from ITmark and artefacts and cerimonies of Scrum.
 
 
 Instructions:
